@@ -12,3 +12,5 @@ V1.1  -"refactored header html and css"
 V1.2 - "hero refactor"
     - Added comments to separate hero style and html from other sections
     - Moved float left and float right classes to general styles section
+    - Added comments to show footer style start and end
+    -Added HTML comments to show difference between services and benefits sections
