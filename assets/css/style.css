@@ -18,11 +18,20 @@ p {
     font-size: 16px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 /* General Styles End */
 
 
 /* Header/Nav Style Start */
-.header {
+nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -46,17 +55,13 @@ nav div {
     font-size: 20px;
 }
 
-nav div ul {
-    list-style-type: none;
-}
-
 nav div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* Header/Nav Style End */
 
+/* Hero Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,16 +70,7 @@ nav div ul li {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* Hero Style End */
 
 .content {
     width: 75%;
@@ -195,6 +191,7 @@ nav div ul li {
     font-size: 36px;
 }
 
+/* Footer Style Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -205,3 +202,4 @@ nav div ul li {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
