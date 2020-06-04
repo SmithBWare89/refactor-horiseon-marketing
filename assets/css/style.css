@@ -34,9 +34,6 @@ p {
     display: inline-block;
     font-size: 48px;
 }
-.seo {
-    color: #d9dcd6;
-}
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +44,9 @@ p {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+.seo {
+    color: #d9dcd6;
 }
 /* Header/Nav Style End */
 /* Hero Style */
