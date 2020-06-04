@@ -45,3 +45,8 @@
 - Added single quotes to 'Calibri' in benefits and content-info classes
 
 # V2.0 - "Website Redeploy And Reformatted Readme"
+
+## V2.1 - "Additional Edits"
+- Changed services section semantic element to "main" to better represent its purpose
+- Changes services section class to "services" and "services-info" to better represent which section it's for
+- Updated semantic element for hero to aside as the image is only indirectly related to the sites main content
