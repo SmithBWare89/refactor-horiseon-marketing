@@ -27,3 +27,15 @@ V1.4 - "Benefits and Footer Refactored"
     - Replaced parent div with section semantic element
     - Replaced footer section parent div with footer semantic element
     - Reintroduced header class to clear up style intent
+
+V1.5 - "Final page clean up"
+    - Deleted extraneous white space between sections in HTML
+    - Changed parent div for Hero section to section semantic element
+    - Indented all items contained within HTML element
+    - Changed title to "Horiseon
+    - Deleted extraneous white space between CSS selectors
+    - Added title attribute to image in hero
+    - Added blank alt attribute for images in benefits section
+    - Deleted closing img tag for "Cost Management" photo
+    - Added alt attribute descriptions to services section
+    - Added single quotes to 'Calibri' in benefits and content-info classes
