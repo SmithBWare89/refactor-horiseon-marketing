@@ -5,15 +5,15 @@
 
 ## V1 - "First Commit"
 
-## V1.1  -"refactored header html and css"
+## V1.1  -"Refactored header html and css"
 - Added Header semantic element
-- Added Nav semenatic element
-- Added comments dileniating that this is the Navigation section
+- Added Nav semantic element
+- Added comments delineating that this is the Navigation section
 - Eliminated "Header" class. Path from Nav element does the same thing
-- Add comments to dileniate general CSS styles
+- Add comments to delineate general CSS styles
 - Removed "list-style-type" property as it doesn't affect code
 
-## V1.2 - "hero refactor"
+## V1.2 - "Hero refactor"
 - Added comments to separate hero style and html from other sections
 - Moved float left and float right classes to general styles section
 - Added comments to show footer style start and end
